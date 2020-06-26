@@ -1,0 +1,3 @@
+﻿  SQLdatabase.cpp
+C:\Users\Garrett\source\repos\SQLdatabase\SQLdatabase\SQLdatabase.cpp(177,14): warning C4101: 'DB': unreferenced local variable
+  SQLdatabase.vcxproj -> C:\Users\Garrett\source\repos\SQLdatabase\Debug\SQLdatabase.exe
